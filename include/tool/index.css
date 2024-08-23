@@ -19,10 +19,10 @@ body{
 }
 
 .button1{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 2%;
-    left: 18.5%;
+    left: 10%;
 }
 
 .button1:hover{
@@ -32,10 +32,10 @@ body{
 }
 
 .button2{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 3%;
-    left: 34%;
+    left: 20%;
 }
 
 .button2:hover{
@@ -45,10 +45,10 @@ body{
 }
 
 .button3{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 4%;
-    left: 49.5%;
+    left: 40%;
 }
 
 .button3:hover{
@@ -58,10 +58,10 @@ body{
 }
 
 .button4{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 4%;
-    left: 63%;
+    left: 50%;
 }
 
 .button4:hover{
@@ -71,10 +71,10 @@ body{
 }
 
 .button5{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
-    top: 2.5%;
-    left: 77%;
+    top: 4%;
+    left: 60%;
 }
 
 .button5:hover{
@@ -84,10 +84,10 @@ body{
 }
 
 .button6{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 24%;
-    left: 12%;
+    left: 10%;
 }
 
 .button6:hover{
@@ -97,10 +97,10 @@ body{
 }
 
 .button7{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 24%;
-    left: 26%;
+    left: 20%;
 }
 
 .button7:hover{
@@ -110,10 +110,10 @@ body{
 }
 
 .button8{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 26%;
-    left: 41%;
+    left: 30%;
 }
 
 .button8:hover{
@@ -123,10 +123,10 @@ body{
 }
 
 .button9{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 29%;
-    left: 56%;
+    left: 40%;
 }
 
 .button9:hover{
@@ -136,10 +136,10 @@ body{
 }
 
 .button10{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 26%;
-    left: 70.5%;
+    left: 50%;
 }
 
 .button10:hover{
@@ -149,10 +149,10 @@ body{
 }
 
 .button11{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
-    top: 47%;
-    left: 18.5%;
+    top: 26%;
+    left: 60%;
 }
 
 .button11:hover{
@@ -162,10 +162,10 @@ body{
 }
 
 .button12{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 47%;
-    left: 33%;
+    left: 20%;
 }
 
 .button12:hover{
@@ -175,10 +175,10 @@ body{
 }
 
 .button13{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 49%;
-    left: 47.5%;
+    left: 30%;
 }
 
 .button13:hover{
@@ -188,10 +188,10 @@ body{
 }
 
 .button14{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 50%;
-    left: 63%;
+    left: 40%;
 }
 
 .button14:hover{
@@ -201,14 +201,79 @@ body{
 }
 
 .button15{
-    width: 11.5%;
+    width: 8%;
     position: absolute;
     top: 47%;
-    left: 78%;
+    left: 60%;
 }
 
 .button15:hover{
     content: url(image/button15_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button16{
+    width: 8%;
+    position: absolute;
+    top: 47%;
+    left: 10%;
+}
+
+.button16:hover{
+    content: url(image/button16_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button17{
+    width: 8%;
+    position: absolute;
+    top: 60%;
+    left: 30%;
+}
+
+.button17:hover{
+    content: url(image/button17_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button18{
+    width: 8%;
+    position: absolute;
+    top: 4%;
+    left: 30%;
+}
+
+.button18:hover{
+    content: url(image/button18_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button19{
+    width: 8%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.button19:hover{
+    content: url(image/button19_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button20{
+    width: 8%;
+    position: absolute;
+    top: 60%;
+    left: 40%;
+}
+
+.button20:hover{
+    content: url(image/button20_h.png);
     transform: scale(1.15);
     z-index: 1;
 }
