@@ -1,0 +1,214 @@
+body{
+    margin:0px !important;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(image/background.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    cursor: pointer;
+}
+
+.button1{
+    width: 11.5%;
+    position: absolute;
+    top: 2%;
+    left: 18.5%;
+}
+
+.button1:hover{
+    content: url(image/button1_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button2{
+    width: 11.5%;
+    position: absolute;
+    top: 3%;
+    left: 34%;
+}
+
+.button2:hover{
+    content: url(image/button2_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button3{
+    width: 11.5%;
+    position: absolute;
+    top: 4%;
+    left: 49.5%;
+}
+
+.button3:hover{
+    content: url(image/button3_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button4{
+    width: 11.5%;
+    position: absolute;
+    top: 4%;
+    left: 63%;
+}
+
+.button4:hover{
+    content: url(image/button4_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button5{
+    width: 11.5%;
+    position: absolute;
+    top: 2.5%;
+    left: 77%;
+}
+
+.button5:hover{
+    content: url(image/button5_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button6{
+    width: 11.5%;
+    position: absolute;
+    top: 24%;
+    left: 12%;
+}
+
+.button6:hover{
+    content: url(image/button6_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button7{
+    width: 11.5%;
+    position: absolute;
+    top: 24%;
+    left: 26%;
+}
+
+.button7:hover{
+    content: url(image/button7_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button8{
+    width: 11.5%;
+    position: absolute;
+    top: 26%;
+    left: 41%;
+}
+
+.button8:hover{
+    content: url(image/button8_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button9{
+    width: 11.5%;
+    position: absolute;
+    top: 29%;
+    left: 56%;
+}
+
+.button9:hover{
+    content: url(image/button9_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button10{
+    width: 11.5%;
+    position: absolute;
+    top: 26%;
+    left: 70.5%;
+}
+
+.button10:hover{
+    content: url(image/button10_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button11{
+    width: 11.5%;
+    position: absolute;
+    top: 47%;
+    left: 18.5%;
+}
+
+.button11:hover{
+    content: url(image/button11_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button12{
+    width: 11.5%;
+    position: absolute;
+    top: 47%;
+    left: 33%;
+}
+
+.button12:hover{
+    content: url(image/button12_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button13{
+    width: 11.5%;
+    position: absolute;
+    top: 49%;
+    left: 47.5%;
+}
+
+.button13:hover{
+    content: url(image/button13_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button14{
+    width: 11.5%;
+    position: absolute;
+    top: 50%;
+    left: 63%;
+}
+
+.button14:hover{
+    content: url(image/button14_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
+
+.button15{
+    width: 11.5%;
+    position: absolute;
+    top: 47%;
+    left: 78%;
+}
+
+.button15:hover{
+    content: url(image/button15_h.png);
+    transform: scale(1.15);
+    z-index: 1;
+}
